@@ -1,0 +1,1 @@
+(cc-playground :repo "amosbird/cc-playground" :fetcher github)
